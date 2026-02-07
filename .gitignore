@@ -1,0 +1,31 @@
+# 环境变量（包含敏感信息）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志和临时文件
+*.log
+*.tmp
+.DS_Store
+
+# 测试数据中的大文件（可选）
+# test_data/*.pdf
+
+# Docker 数据卷
+mysql_data/
+chroma_data/
+es_data/
